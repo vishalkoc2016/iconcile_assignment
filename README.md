@@ -141,7 +141,7 @@ Add environment variables from backend .env file
 ## 🔥 Project Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](./screenshots/Landingpage.png)
+![Landing Page](screenshots/Landingpage.png)
 
 ### 🔐 Login Screen
 ![Login](./screenshots/Login.png)
