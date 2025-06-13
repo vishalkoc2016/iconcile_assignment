@@ -138,28 +138,29 @@ Add environment variables from backend .env file
 📦 MongoDB Storage
 
 📸 Screenshots
-## 🔥 Project Screenshots
+## 📸 Project Screenshots
 
 ### 🏠 Landing Page
 ![Landing Page](screenshots/Landingpage.png)
 
 ### 🔐 Login Screen
-![Login](./screenshots/Login.png)
+![Login](screenshots/Login.png)
 
 ### 📝 Register Screen
-![Register](./screenshots/Register.png)
+![Register](screenshots/Register.png)
 
 ### 🏨 Homepage
-![Homepage](./screenshots/Hompage.png)
+![Homepage](screenshots/Homepage.png)
 
 ### 📅 Booking Screen
-![Booking](./screenshots/Booking.png)
+![Booking](screenshots/Booking.png)
 
 ### 💳 Payment Screen
-![Payment](./screenshots/Payment.png)
+![Payment](screenshots/Payment.png)
 
 ### ⚙️ Admin Panel
-![Admin Panel](./screenshots/Admin_panel.png)
+![Admin Panel](screenshots/Admin_panel.png)
+
 
 
 🙏 Acknowledgments
